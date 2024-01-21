@@ -1,1 +1,1 @@
-docker build -t iss-uppy-413 . && docker run --rm -p 8080:8080 iss-uppy-413
+docker build -t iss-uppy-413 . && docker run --rm -p 3000:3000 iss-uppy-413
